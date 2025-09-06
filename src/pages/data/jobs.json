@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "TechNova",
+        "location": "Remote",
+        "type": "Full-time",
+        "description": "Develop and maintain user-facing features using React and TailwindCSS.",
+        "posted_date": "2025-09-01"
+    },
+    {
+        "id": 2,
+        "title": "Backend Developer",
+        "company": "CodeCraft",
+        "location": "Bangalore, India",
+        "type": "Full-time",
+        "description": "Design REST APIs and integrate databases for job portal backend services.",
+        "posted_date": "2025-08-28"
+    },
+    {
+        "id": 3,
+        "title": "UI/UX Designer",
+        "company": "Designify",
+        "location": "Delhi, India",
+        "type": "Internship",
+        "description": "Create wireframes, prototypes, and improve overall user experience.",
+        "posted_date": "2025-08-30"
+    },
+    {
+        "id": 4,
+        "title": "Full Stack Developer",
+        "company": "Innovate Labs",
+        "location": "Mumbai, India",
+        "type": "Remote",
+        "description": "Work on both frontend and backend, building scalable job portal features.",
+        "posted_date": "2025-09-02"
+    },
+    {
+        "id": 5,
+        "title": "Data Scientist",
+        "company": "AIWorks",
+        "location": "Hyderabad, India",
+        "type": "Full-time",
+        "description": "Analyze large datasets, build predictive models, and provide business insights.",
+        "posted_date": "2025-08-29"
+    },
+    {
+        "id": 6,
+        "title": "Mobile App Developer",
+        "company": "Appify",
+        "location": "Pune, India",
+        "type": "Full-time",
+        "description": "Develop Android and iOS apps using Flutter and Kotlin.",
+        "posted_date": "2025-09-03"
+    },
+    {
+        "id": 7,
+        "title": "DevOps Engineer",
+        "company": "CloudMatrix",
+        "location": "Remote",
+        "type": "Full-time",
+        "description": "Manage CI/CD pipelines, monitor cloud infrastructure, and optimize deployments.",
+        "posted_date": "2025-08-31"
+    },
+    {
+        "id": 8,
+        "title": "QA Engineer",
+        "company": "BugTrack",
+        "location": "Chennai, India",
+        "type": "Internship",
+        "description": "Test software applications, report bugs, and ensure quality standards.",
+        "posted_date": "2025-09-01"
+    },
+    {
+        "id": 9,
+        "title": "Product Manager",
+        "company": "VisionSoft",
+        "location": "Gurgaon, India",
+        "type": "Full-time",
+        "description": "Define product roadmap, coordinate with teams, and deliver high-quality features.",
+        "posted_date": "2025-09-02"
+    },
+    {
+        "id": 10,
+        "title": "Cybersecurity Analyst",
+        "company": "SecureNet",
+        "location": "Remote",
+        "type": "Full-time",
+        "description": "Monitor network threats, ensure data security, and implement security protocols.",
+        "posted_date": "2025-08-27"
+    }
+]

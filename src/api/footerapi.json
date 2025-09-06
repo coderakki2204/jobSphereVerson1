@@ -1,0 +1,17 @@
+[
+  {
+    "rectIcon": "MdPlace",
+    "title": "Find Us",
+    "details": "123 Main Street, New York, USA"
+  },
+  {
+    "rectIcon": "IoCallSharp",
+    "title": "Call Us",
+    "details": "+1 (555) 123-4567"
+  },
+  {
+    "rectIcon": "TbMailPlus",
+    "title": "Mail Us",
+    "details": "support@example.com"
+  }
+]
