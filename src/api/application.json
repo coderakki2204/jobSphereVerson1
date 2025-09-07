@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Google",
+    "role": "Android Developer",
+    "date": "01-Sep-2025",
+    "status": "Pending"
+  },
+  {
+    "company": "Infosys",
+    "role": "Kotlin Developer",
+    "date": "28-Aug-2025",
+    "status": "Interview"
+  },
+  {
+    "company": "TCS",
+    "role": "Java Developer",
+    "date": "20-Aug-2025",
+    "status": "Rejected"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Full Stack Developer",
+    "date": "15-Aug-2025",
+    "status": "Pending"
+  },
+  {
+    "company": "Wipro",
+    "role": "React Developer",
+    "date": "10-Aug-2025",
+    "status": "Interview"
+  },
+  {
+    "company": "Amazon",
+    "role": "Backend Developer",
+    "date": "05-Aug-2025",
+    "status": "Pending"
+  },
+  {
+    "company": "Capgemini",
+    "role": "Software Engineer",
+    "date": "02-Aug-2025",
+    "status": "Rejected"
+  },
+  {
+    "company": "IBM",
+    "role": "Cloud Engineer",
+    "date": "28-Jul-2025",
+    "status": "Interview"
+  },
+  {
+    "company": "Accenture",
+    "role": "Web Developer",
+    "date": "20-Jul-2025",
+    "status": "Pending"
+  },
+  {
+    "company": "Tech Mahindra",
+    "role": "Frontend Developer",
+    "date": "15-Jul-2025",
+    "status": "Rejected"
+  }
+]

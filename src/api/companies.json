@@ -1,0 +1,72 @@
+[
+  {
+    "company": "Google",
+    "owner": "Sundar Pichai",
+    "post": "Android Developer",
+    "lastDate": "30-Sep-2025",
+    "seats": 5
+  },
+  {
+    "company": "Microsoft",
+    "owner": "Satya Nadella",
+    "post": "Full Stack Developer",
+    "lastDate": "25-Sep-2025",
+    "seats": 3
+  },
+  {
+    "company": "Amazon",
+    "owner": "Andy Jassy",
+    "post": "Backend Engineer",
+    "lastDate": "28-Sep-2025",
+    "seats": 7
+  },
+  {
+    "company": "Infosys",
+    "owner": "Salil Parekh",
+    "post": "Kotlin Developer",
+    "lastDate": "20-Sep-2025",
+    "seats": 10
+  },
+  {
+    "company": "TCS",
+    "owner": "Rajesh Gopinathan",
+    "post": "Java Developer",
+    "lastDate": "18-Sep-2025",
+    "seats": 12
+  },
+  {
+    "company": "Wipro",
+    "owner": "Thierry Delaporte",
+    "post": "React Developer",
+    "lastDate": "22-Sep-2025",
+    "seats": 4
+  },
+  {
+    "company": "Capgemini",
+    "owner": "Aiman Ezzat",
+    "post": "Software Engineer",
+    "lastDate": "19-Sep-2025",
+    "seats": 6
+  },
+  {
+    "company": "IBM",
+    "owner": "Arvind Krishna",
+    "post": "Cloud Engineer",
+    "lastDate": "27-Sep-2025",
+    "seats": 8
+  },
+  {
+    "company": "Accenture",
+    "owner": "Julie Sweet",
+    "post": "Web Developer",
+    "lastDate": "29-Sep-2025",
+    "seats": 9
+  },
+  {
+    "company": "Tech Mahindra",
+    "owner": "C. P. Gurnani",
+    "post": "Frontend Developer",
+    "lastDate": "21-Sep-2025",
+    "seats": 5
+  }
+]
