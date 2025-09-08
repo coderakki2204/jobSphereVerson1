@@ -13,7 +13,7 @@ const Hero = () => {
         </p>
       </div>
 
-      <img className="hero-image" src="./src/photos/HeroLogo.svg" alt="logo" />
+      <img className="hero-image" src="/photos/heroLogo.svg" alt="logo" />
     </div>
   );
 };

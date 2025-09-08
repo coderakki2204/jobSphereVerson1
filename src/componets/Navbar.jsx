@@ -7,12 +7,12 @@ const Navbar = () => {
 
   return (
     <nav className="nav-bar">
-      {/* Logo */}
+     
       <div className="logo bg-blue-400">
-        <img src="./src/photos/logo.svg" alt="logo" />
+        <img src="/photos/logo.svg" alt="logo" />
       </div>
 
-      {/* Nav links */}
+    
       <div className={`nav ${isOpen ? "active" : ""}`}>
         <Link to="/" onClick={() => setIsOpen(false)}>Home</Link>
         <Link to="/application" onClick={() => setIsOpen(false)}>My Application</Link>
@@ -20,13 +20,13 @@ const Navbar = () => {
         <Link to="/contact" onClick={() => setIsOpen(false)}>Contact Us</Link>
       </div>
 
-      {/* Login / Signup (desktop only) */}
+     
       <div className="ls-button">
         <button className="login">Login</button>
         <button className="signup">Sign Up</button>
       </div>
 
-      {/* Hamburger (mobile only) */}
+     
       <div className="hamburger" onClick={() => setIsOpen(!isOpen)}>
         {isOpen ? <FaTimes /> : <FaBars />}
       </div>
